@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">act7</string>
+
+    <!-- Product: Pikachu Peluche -->
+    <string name="product_pikachu_name">Peluche de Pikachu Gordo</string>
+    <string name="product_pikachu_description">Peluche de 12 pulgadas de pikachu estilo bonbon, gordo</string>
+    <string name="product_pikachu_url">https://www.amazon.com.mx/SQPK00313-Squishmallows-Peluche-Mediano-Pulgadas/dp/B0DKYX8GYZ/ref=asc_df_B0DKYX8GYZ?mcid=2be208164b283100ad59bcd2e5ad6622&amp;tag=gledskshopmx-20&amp;linkCode=df0&amp;hvadid=730103164223&amp;hvpos=&amp;hvnetw=g&amp;hvrand=17179438502091614749&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=1031214&amp;hvtargid=pla-2424867583668&amp;psc=1&amp;language=es_MX&amp;gad_source=1</string>
+    <string name="product_pikachu_image_name">pika_peluch</string>
+
+    <!-- Product: Tenedor Extendible -->
+    <string name="product_tenedor_name">Tenedor Extendible</string>
+    <string name="product_tenedor_description">Tenedor tan extendible como innecesario, util para robar comida a las mesas de al lado</string>
+    <string name="product_tenedor_url">https://www.amazon.com.mx/telescópico-extensible-barbacoa-cubertería-extiende/dp/B06X3VQM5R/ref=asc_df_B06X3VQM5R?mcid=d73134cbe7f435809fe40960cf789ed2&amp;tag=gledskshopmx-20&amp;linkCode=df0&amp;hvadid=709972588067&amp;hvpos=&amp;hvnetw=g&amp;hvrand=7144202956104852465&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=1031214&amp;hvtargid=pla-350775462236&amp;psc=1&amp;language=es_MX&amp;gad_source=1</string>
+    <string name="product_tenedor_image_name">tenedor_ext</string>
+
+    <!-- Product: Frieren Peluche -->
+    <string name="product_frieren_name">Peluche de Frieren</string>
+    <string name="product_frieren_description">Peluche de Frieren, mira que bonita es</string>
+    <string name="product_frieren_url">https://www.amazon.com.mx/LUNK-Frieren-peluche-decoración-recámara/dp/B0CZP77TJ3/ref=asc_df_B0CZP77TJ3?mcid=424df6cea86f3512949c863909c3ded9&amp;tag=gledskshopmx-20&amp;linkCode=df0&amp;hvadid=709872586945&amp;hvpos=&amp;hvnetw=g&amp;hvrand=8936144167192648462&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=1031214&amp;hvtargid=pla-2300554620626&amp;language=es_MX&amp;gad_source=1&amp;th=1</string>
+    <string name="product_frieren_image_name">frier_peluch</string>
+
+    <!-- Product: Rei Chikita Peluche -->
+    <string name="product_rei_name">Peluche de Rei Chikita</string>
+    <string name="product_rei_description">Rei chiquita</string>
+    <string name="product_rei_url">https://www.amazon.com.mx/Great-Eastern-Evangelion-GE-52302-Rei/dp/B076DP5XTC/ref=asc_df_B076DP5XTC?mcid=c5589174283f3ead98a76ea3e6948f5c&amp;tag=gledskshopmx-20&amp;linkCode=df0&amp;hvadid=709872586747&amp;hvpos=&amp;hvnetw=g&amp;hvrand=14442309156058994957&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=1031214&amp;hvtargid=pla-993456215912&amp;psc=1&amp;language=es_MX&amp;gad_source=1</string>
+    <string name="product_rei_image_name">rei_chiq</string>
+
+    <!-- Product: Peine Mariposa -->
+    <string name="product_peine_name">Peine Navaja Mariposa</string>
+    <string name="product_peine_description">Herramienta de práctica de acero inoxidable, peine plegable sin filo.</string>
+    <string name="product_peine_url">https://www.amazon.com.mx/NCONCO-inoxidable-plegables-entrenamiento-herramientas/dp/B0CLD9QXY6</string>
+    <string name="product_peine_image_name">peine_marip</string>
+
+    <!-- Strings for ProductDetailActivity -->
+    <string name="title_activity_product_detail">Detalles del Producto</string>
+    <string name="product_detail_image_content_description">Imagen del producto</string>
+    <string name="product_detail_web_button_text">Ver en la Web</string>
+    <string name="no_website_available">Sitio web no disponible</string>
+    
+    <!-- String for item_product.xml -->
+    <string name="product_list_item_image_description">Imagen de producto en la lista</string>
 </resources>
