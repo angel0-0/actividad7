@@ -15,7 +15,7 @@ Cuando se comparten archivos (como imágenes, documentos o videos), no se puede 
 En su lugar, se usa algo llamado FileProvider, que permite compartir el archivo de forma protegida.  
 
 
-Reflexión personal del tema (mínimo 50 palabras):   
+### Reflexión personal del tema (mínimo 50 palabras):   
 usar los Intents en android me hizo darme cuenta de lo importante que es la comunicación entre aplicaciones. no se trata solo de que una app funcione por sí sola, sino de que pueda conectarse con otras para ofrecer una mejor experiencia al usuario, sin complicarse ni poner en riesgo la seguridad. entendí que la seguridad y los permisos son fundamentales. No se puede compartir información sin cuidado, porque eso puede afectar los datos del usuario. y en general, diseñar aplicaciones no es solo programar, sino pensar en cómo hacerlas más útiles, seguras y fáciles de usar.
 
 ## 📸 Capturas de Pantalla  
